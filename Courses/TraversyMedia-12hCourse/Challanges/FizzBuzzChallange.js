@@ -10,7 +10,7 @@ for(let i = 0; i <= 100; i++){
         console.log("fizz");
     }
     else if(i % 5 === 0){
-        console.log("bizz");
+        console.log("buzz");
     }
     else{
         console.log(i);
