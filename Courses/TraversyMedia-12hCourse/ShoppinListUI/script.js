@@ -28,6 +28,14 @@ function createListItem(item){
     ulist.appendChild(li)
 };
 
-
 //Adding choclate to shopping list
 createListItem("Choclate")
+
+
+//Remove item from the list
+// function removeItem(item){
+//     item.remove();
+// }
+
+// const rmItem = document.querySelector("li:nth-child(1)");
+// removeItem(rmItem);   
